@@ -27,7 +27,19 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=1572B6)
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+<!-- 
+Add techs:
+Git
+Java
+Docker
+Laravel
+Symfony
+Wordpress
+jQuery
+C# 
 
+
+-->
 <br/>
 
 <a href="https://github.com/Mauri35">
